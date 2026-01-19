@@ -1,0 +1,36 @@
+# Quartus Prime compilation databases and temporary files
+db/
+incremental_db/
+greybox_tmp/
+hc_output/
+work/
+
+# Compilation output files
+output_files/
+*.sof
+*.pof
+*.jdi
+*.pin
+*.done
+*.qo
+*.wlf
+
+# Simulation files
+simulation/
+
+# Qsys/Platform Designer generated files and directories
+.qsys_edit/
+*.sopcinfo
+InvertedPendulumPID/
+hps_isw_handoff/
+
+# Reports and logs
+*.rpt
+*.summary
+*.smsg
+*.txt
+
+# User preferences and backup files
+*.qws
+*.bak
+*~

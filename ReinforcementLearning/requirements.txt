@@ -1,0 +1,9 @@
+torch==2.9.1
+torchvision==0.24.1
+opencv-python==4.13.0.90
+gymnasium==1.2.3
+stable-baselines3==2.7.1
+shimmy==2.0.0
+tensorboard==2.20.0
+tqdm==4.67.1
+rich==14.2.0
